@@ -1,4 +1,6 @@
 # GraphQL
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgraphql.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgraphql?ref=badge_shield)
+
 
 This is a Working Draft of the Specification for GraphQL, a query language for APIs created by Facebook.
 
@@ -1114,3 +1116,7 @@ in both [GraphQL.js](https://github.com/graphql/graphql-js/) and specification,
 including a description and implementation for executing queries, how to format
 a response, explaining how a type system maps to an underlying implementation,
 and how to format a GraphQL response, as well as a grammar for GraphQL.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgraphql.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgraphql?ref=badge_large)
